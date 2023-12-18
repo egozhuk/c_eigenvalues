@@ -1,0 +1,5 @@
+/Users/vladislavzukov/Desktop/C:C++/C/lab1/cmake-build-debug/CMakeFiles/lab1.dir
+/Users/vladislavzukov/Desktop/C:C++/C/lab1/cmake-build-debug/CMakeFiles/main.dir
+/Users/vladislavzukov/Desktop/C:C++/C/lab1/cmake-build-debug/CMakeFiles/notmain.dir
+/Users/vladislavzukov/Desktop/C:C++/C/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vladislavzukov/Desktop/C:C++/C/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
